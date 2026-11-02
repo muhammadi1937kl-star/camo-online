@@ -1,0 +1,6 @@
+{
+  "name": "Онлайн Школа — Академия САМО",
+  "description": "Образовательная платформа онлайн-тренингов Саидмурода Давлатова с защищенным видеоплеером, личным кабинетом ученика и интерактивными вопросами в Google Таблицу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
